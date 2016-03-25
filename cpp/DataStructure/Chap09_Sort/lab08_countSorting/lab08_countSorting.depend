@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1432083588 source:d:\temp\lab08_countsorting\main.cpp
+	<vector>
+	<iostream>
+

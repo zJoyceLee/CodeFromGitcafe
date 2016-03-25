@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ICP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ICP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ICP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="demo.cpp" />
+		<Unit filename="icp.cpp" />
+		<Unit filename="icp.h" />
+		<Unit filename="icpPointToPlane.cpp" />
+		<Unit filename="icpPointToPlane.h" />
+		<Unit filename="icpPointToPoint.cpp" />
+		<Unit filename="icpPointToPoint.h" />
+		<Unit filename="kdtree.cpp" />
+		<Unit filename="kdtree.h" />
+		<Unit filename="lasdefinitions.h" />
+		<Unit filename="laspointreader.h" />
+		<Unit filename="laspointreader0compressed.h" />
+		<Unit filename="laspointreader0raw.h" />
+		<Unit filename="laspointreader1compressed.h" />
+		<Unit filename="laspointreader1raw.h" />
+		<Unit filename="laspointreader2compressed.h" />
+		<Unit filename="laspointreader2raw.h" />
+		<Unit filename="laspointreader3compressed.h" />
+		<Unit filename="laspointreader3raw.h" />
+		<Unit filename="laspointwriter.h" />
+		<Unit filename="laspointwriter0compressed.h" />
+		<Unit filename="laspointwriter0raw.h" />
+		<Unit filename="laspointwriter1compressed.h" />
+		<Unit filename="laspointwriter1raw.h" />
+		<Unit filename="laspointwriter2compressed.h" />
+		<Unit filename="laspointwriter2raw.h" />
+		<Unit filename="laspointwriter3compressed.h" />
+		<Unit filename="laspointwriter3raw.h" />
+		<Unit filename="lasreader.cpp" />
+		<Unit filename="lasreader.h" />
+		<Unit filename="laswriter.cpp" />
+		<Unit filename="laswriter.h" />
+		<Unit filename="matrix.cpp" />
+		<Unit filename="matrix.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

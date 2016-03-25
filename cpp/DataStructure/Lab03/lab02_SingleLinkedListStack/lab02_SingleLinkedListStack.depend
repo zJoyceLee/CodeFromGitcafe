@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1418564950 source:/home/joyce/Codes/cpp/DataStructure/Lab03/lab02_SingleLinkedListStack/main.cpp
+	<gtest/gtest.h>
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	"LinkedList.hpp"
+	"SingleLinkedStack.hpp"
+	"CarInfo.hpp"
+
+1418562527 /home/joyce/Codes/cpp/DataStructure/Lab03/lab02_SingleLinkedListStack/LinkedList.hpp
+	<vector>
+	"LinkedListNode.hpp"
+	"LinkedList.tcc"
+
+1418558216 /home/joyce/Codes/cpp/DataStructure/Lab03/lab02_SingleLinkedListStack/LinkedListNode.hpp
+	"LinkedListNode.tcc"
+
+1418555637 /home/joyce/Codes/cpp/DataStructure/Lab03/lab02_SingleLinkedListStack/LinkedListNode.tcc
+
+1418557770 /home/joyce/Codes/cpp/DataStructure/Lab03/lab02_SingleLinkedListStack/LinkedList.tcc
+	<iostream>
+
+1418562961 /home/joyce/Codes/cpp/DataStructure/Lab03/lab02_SingleLinkedListStack/SingleLinkedStack.hpp
+	"LinkedListNode.hpp"
+	"LinkedList.hpp"
+	"SingleLinkedStack.tcc"
+
+1418468726 /home/joyce/Codes/cpp/DataStructure/Lab03/lab02_SingleLinkedListStack/CarInfo.hpp
+
+1418563677 /home/joyce/Codes/cpp/DataStructure/Lab03/lab02_SingleLinkedListStack/SingleLinkedStack.tcc
+	<stdexcept>
+

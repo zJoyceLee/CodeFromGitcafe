@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1417452798 source:/home/joyce/Codes/cpp/test2_lst_141129/main.cpp
+	<iostream>
+	"Node.hpp"
+	"LinkedList.hpp"
+	"Student.hpp"
+
+1417447306 /home/joyce/Codes/cpp/test2_lst_141129/Node.hpp
+	"Node.tcc"
+
+1417428383 /home/joyce/Codes/cpp/test2_lst_141129/Node.tcc
+
+1417452830 /home/joyce/Codes/cpp/test2_lst_141129/LinkedList.hpp
+	<vector>
+	"Node.hpp"
+	"LinkedList.tcc"
+
+1417453344 /home/joyce/Codes/cpp/test2_lst_141129/LinkedList.tcc
+	<iostream>
+
+1417448730 /home/joyce/Codes/cpp/test2_lst_141129/Student.hpp
+
+1417453759 source:/home/joyce/Codes/cpp/DataStructure/Lab02/test2_lst_141129/main.cpp
+	<iostream>
+	"Node.hpp"
+	"LinkedList.hpp"
+	"Student.hpp"
+
+1421576004 /home/joyce/Codes/cpp/DataStructure/Lab02/test2_lst_141129/Node.hpp
+	"Node.tcc"
+
+1417428383 /home/joyce/Codes/cpp/DataStructure/Lab02/test2_lst_141129/Node.tcc
+
+1417452830 /home/joyce/Codes/cpp/DataStructure/Lab02/test2_lst_141129/LinkedList.hpp
+	<vector>
+	"Node.hpp"
+	"LinkedList.tcc"
+
+1417453344 /home/joyce/Codes/cpp/DataStructure/Lab02/test2_lst_141129/LinkedList.tcc
+	<iostream>
+
+1417448730 /home/joyce/Codes/cpp/DataStructure/Lab02/test2_lst_141129/Student.hpp
+

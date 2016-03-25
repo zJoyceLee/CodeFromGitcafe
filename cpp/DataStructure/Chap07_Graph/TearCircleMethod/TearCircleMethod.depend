@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1429605310 source:/home/joyce/Codes/cpp/DataStructure/Chap06/TearCircleMethod/main.cpp
+	<iostream>
+	"Assistant.hpp"
+	"TearCircleMethod.hpp"
+
+1429606110 /home/joyce/Codes/cpp/DataStructure/Chap06/TearCircleMethod/Assistant.hpp
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1429604102 /home/joyce/Codes/cpp/DataStructure/Chap06/TearCircleMethod/TearCircleMethod.hpp
+	"AdjMatrixUndirNetwork.hpp"
+
+1429604022 /home/joyce/Codes/cpp/DataStructure/Chap06/TearCircleMethod/AdjMatrixUndirNetwork.hpp
+	"Assistant.hpp"
+	"AdjMatrixUndirNetwork.tcc"
+
+1429538810 /home/joyce/Codes/cpp/DataStructure/Chap06/TearCircleMethod/AdjMatrixUndirNetwork.tcc
+
+1429636557 source:/home/joyce/Codes/cpp/DataStructure/Chap07_Graph/TearCircleMethod/main.cpp
+	<iostream>
+	<limits>
+	"Assistant.hpp"
+	"TearCircleMethod.hpp"
+	"helper.hpp"
+	"AdjMatrixUndirNetwork.hpp"
+	<gtest/gtest.h>
+
+1429606110 /home/joyce/Codes/cpp/DataStructure/Chap07_Graph/TearCircleMethod/Assistant.hpp
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1429637780 /home/joyce/Codes/cpp/DataStructure/Chap07_Graph/TearCircleMethod/TearCircleMethod.hpp
+	"AdjMatrixUndirNetwork.hpp"
+
+1429639053 /home/joyce/Codes/cpp/DataStructure/Chap07_Graph/TearCircleMethod/AdjMatrixUndirNetwork.hpp
+	<vector>
+	"Assistant.hpp"
+	"AdjMatrixUndirNetwork.tcc"
+
+1429639065 /home/joyce/Codes/cpp/DataStructure/Chap07_Graph/TearCircleMethod/AdjMatrixUndirNetwork.tcc
+
+1429632400 /home/joyce/Codes/cpp/DataStructure/Chap07_Graph/TearCircleMethod/helper.hpp
+	<gtest/gtest.h>
+	<sstream>
+	<vector>
+	<string>
+	"helper.tcc"
+
+1429635747 /home/joyce/Codes/cpp/DataStructure/Chap07_Graph/TearCircleMethod/helper.tcc
+

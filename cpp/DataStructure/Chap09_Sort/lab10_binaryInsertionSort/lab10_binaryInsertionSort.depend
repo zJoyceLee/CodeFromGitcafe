@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1432209556 source:/home/joyce/Codes/cpp/DataStructure/Chap09_Sort/lab10_binaryInsertionSort/main.cpp
+	<iostream>
+	<vector>
+	"helper.hpp"
+	"gtest/gtest.h"
+
+1432176371 /home/joyce/Codes/cpp/DataStructure/Chap09_Sort/lab10_binaryInsertionSort/helper.hpp
+	<gtest/gtest.h>
+	<sstream>
+	<vector>
+	<string>
+	"helper.tcc"
+
+1432176348 /home/joyce/Codes/cpp/DataStructure/Chap09_Sort/lab10_binaryInsertionSort/helper.tcc
+

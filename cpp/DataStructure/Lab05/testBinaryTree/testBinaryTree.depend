@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1420965436 source:/home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/TestBinaryTree.cpp
+	"BinaryTree.h"
+
+1420963946 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/BinaryTree.h
+	"LinkQueue.h"
+	"BinTreeNode.h"
+
+1415417702 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/LinkQueue.h
+	"Assistance.h"
+	"Node.h"
+
+1386423796 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/Assistance.h
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1420964363 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/Node.h
+
+1420964531 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/BinTreeNode.h
+
+1421257493 source:/home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/main.cpp
+	<iostream>
+	<vector>
+	"BinaryTree.hpp"
+
+1421257493 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/BinaryTree.hpp
+	<vector>
+	"LinkQueue.hpp"
+	"BinTreeNode.hpp"
+	"BinaryTree.tcc"
+
+1420966289 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/LinkQueue.hpp
+	"Assistance.hpp"
+	"Node.hpp"
+	"LinkQueue.tcc"
+
+1420967014 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/Assistance.hpp
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1421172142 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/Node.hpp
+
+1420967504 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/LinkQueue.tcc
+
+1420966575 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/BinTreeNode.hpp
+
+1421257493 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/BinaryTree.tcc
+
+1421167729 source:/home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/tmp_menu.cpp
+
+1421172230 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/NodeInfo.hpp
+
+1421196856 /home/joyce/Codes/cpp/DataStructure/Lab05/testBinaryTree/ElementInfo.hpp
+

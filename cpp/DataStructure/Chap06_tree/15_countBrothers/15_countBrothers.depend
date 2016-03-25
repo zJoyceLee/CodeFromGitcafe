@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1427767633 source:/home/joyce/Codes/cpp/DataStructure/Chap06_tree/15_countBrothers/main.cpp
+	<iostream>
+	<vector>
+	"BinaryTree.hpp"
+	<gtest/gtest.h>
+
+1427769499 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/15_countBrothers/BinaryTree.hpp
+	<vector>
+	<algorithm>
+	"LinkQueue.hpp"
+	"BinTreeNode.hpp"
+	"BinaryTree.tcc"
+
+1420966289 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/15_countBrothers/LinkQueue.hpp
+	"Assistance.hpp"
+	"Node.hpp"
+	"LinkQueue.tcc"
+
+1427649317 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/15_countBrothers/Assistance.hpp
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1421172142 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/15_countBrothers/Node.hpp
+
+1420967504 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/15_countBrothers/LinkQueue.tcc
+
+1420966575 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/15_countBrothers/BinTreeNode.hpp
+
+1427771203 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/15_countBrothers/BinaryTree.tcc
+

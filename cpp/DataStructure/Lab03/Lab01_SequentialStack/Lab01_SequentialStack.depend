@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1418127304 source:/home/joyce/Codes/cpp/DataStructure/Lab03/Lab01_SequentialStack/main.cpp
+	<iostream>
+	"Node.hpp"
+	"LinkedList.hpp"
+	"CarInfo.hpp"
+
+1418128167 /home/joyce/Codes/cpp/DataStructure/Lab03/Lab01_SequentialStack/Node.hpp
+
+1418125634 /home/joyce/Codes/cpp/DataStructure/Lab03/Lab01_SequentialStack/Node.tcc
+
+1418128238 /home/joyce/Codes/cpp/DataStructure/Lab03/Lab01_SequentialStack/LinkedList.hpp
+	<vector>
+	"Node.hpp"
+	"LinkedList.tcc"
+
+1418128205 /home/joyce/Codes/cpp/DataStructure/Lab03/Lab01_SequentialStack/LinkedList.tcc
+
+1418125973 /home/joyce/Codes/cpp/DataStructure/Lab03/Lab01_SequentialStack/CarInfo.hpp
+

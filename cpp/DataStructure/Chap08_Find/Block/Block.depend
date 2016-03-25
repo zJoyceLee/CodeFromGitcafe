@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1430241193 source:/home/joyce/Codes/cpp/DataStructure/Chap08_Find/Block/main.cpp
+	<vector>
+	<string>
+	<iostream>
+	<cmath>
+	<gtest/gtest.h>
+	"helper.hpp"
+
+1430254730 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/Block/helper.hpp
+	<gtest/gtest.h>
+	<sstream>
+	<vector>
+	<string>
+	"helper.tcc"
+
+1430254728 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/Block/helper.tcc
+
+1430253681 source:/home/joyce/Codes/cpp/DataStructure/Chap08_Find/Block/helper.cpp
+	"helper.hpp"
+
+1430281941 source:/files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap08_Find/Block/helper.cpp
+	"helper.hpp"
+
+1430281873 /files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap08_Find/Block/helper.hpp
+	<gtest/gtest.h>
+	<sstream>
+	<vector>
+	<string>
+	"helper.tcc"
+
+1430281873 /files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap08_Find/Block/helper.tcc
+

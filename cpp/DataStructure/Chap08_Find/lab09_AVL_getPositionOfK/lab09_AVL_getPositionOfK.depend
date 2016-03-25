@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1431965515 source:/home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_AVL_getPositionOfK/main.cpp
+	"AVLTree.hpp"
+	<gtest/gtest.h>
+	<string>
+	<vector>
+	"util.hpp"
+
+1431965515 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_AVL_getPositionOfK/AVLTree.hpp
+	"AVLTreeNode.hpp"
+	<initializer_list>
+	<utility>
+	<string>
+	"AVLTree.tcc"
+
+1431965515 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_AVL_getPositionOfK/AVLTreeNode.hpp
+
+1431965515 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_AVL_getPositionOfK/AVLTree.tcc
+	"AVLTree.hpp"
+	"ThreeNodeTree.hpp"
+	<functional>
+	<stdexcept>
+	<string>
+
+1431965515 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_AVL_getPositionOfK/ThreeNodeTree.hpp
+	"AVLTreeNode.hpp"
+	<cassert>
+
+1431969245 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_AVL_getPositionOfK/util.hpp
+	<string>
+	<vector>
+

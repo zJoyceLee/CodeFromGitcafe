@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1419684277 source:/home/joyce/Codes/cpp/DataStructure/Lab04/lab01_KMP/kmp.cpp
+
+1419683597 /home/joyce/Codes/cpp/DataStructure/Lab04/lab01_KMP/kmp.hpp
+	<string>
+
+1419684286 source:/home/joyce/Codes/cpp/DataStructure/Lab04/lab01_KMP/kmp.hpp
+
+1419856931 source:/home/joyce/Codes/cpp/DataStructure/Lab04/lab01_KMP/main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
+1419702998 source:/home/joyce/Codes/cpp/DataStructure/Lab04/lab01_KMP/test.cpp
+

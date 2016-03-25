@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1432067051 source:/home/joyce/Codes/cpp/DataStructure/Chap09_Sort/discuss1_StraightSelectSortOnList/main.cpp
+	<iostream>
+	"Node.hpp"
+	"LinkedList.hpp"
+	"gtest/gtest.h"
+
+1432050149 /home/joyce/Codes/cpp/DataStructure/Chap09_Sort/discuss1_StraightSelectSortOnList/Node.hpp
+	"Node.tcc"
+
+1417428383 /home/joyce/Codes/cpp/DataStructure/Chap09_Sort/discuss1_StraightSelectSortOnList/Node.tcc
+
+1432063682 /home/joyce/Codes/cpp/DataStructure/Chap09_Sort/discuss1_StraightSelectSortOnList/LinkedList.hpp
+	<vector>
+	"Node.hpp"
+	"LinkedList.tcc"
+
+1432063756 /home/joyce/Codes/cpp/DataStructure/Chap09_Sort/discuss1_StraightSelectSortOnList/LinkedList.tcc
+	<iostream>
+
+1432066600 source:/files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap09_Sort/discuss1_StraightSelectSortOnList/main.cpp
+	<iostream>
+	"Node.hpp"
+	"LinkedList.hpp"
+	"gtest/gtest.h"
+
+1432049456 /files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap09_Sort/discuss1_StraightSelectSortOnList/Node.hpp
+	"Node.tcc"
+
+1432047925 /files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap09_Sort/discuss1_StraightSelectSortOnList/Node.tcc
+
+1432064848 /files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap09_Sort/discuss1_StraightSelectSortOnList/LinkedList.hpp
+	<vector>
+	"Node.hpp"
+	"LinkedList.tcc"
+
+1432064848 /files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap09_Sort/discuss1_StraightSelectSortOnList/LinkedList.tcc
+	<iostream>
+

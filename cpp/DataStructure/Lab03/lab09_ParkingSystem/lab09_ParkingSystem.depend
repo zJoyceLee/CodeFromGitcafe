@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1418575220 source:/home/joyce/Codes/cpp/DataStructure/Lab03/lab09_ParkingSystem/main.cpp
+	<iostream>
+	"SeqStack.hpp"
+
+1418575044 /home/joyce/Codes/cpp/DataStructure/Lab03/lab09_ParkingSystem/SeqStack/SeqStack.hpp
+	"SequentialList.hpp"
+	"../CarInfo.hpp"
+	"SeqStack.tcc"
+
+1418391871 /home/joyce/Codes/cpp/DataStructure/Lab03/lab09_ParkingSystem/SeqStack/SequentialList.hpp
+	<vector>
+	"SequentialList.tcc"
+
+1418393781 /home/joyce/Codes/cpp/DataStructure/Lab03/lab09_ParkingSystem/SeqStack/SequentialList.tcc
+	<limits>
+	<stdexcept>
+	<algorithm>
+
+1418574606 /home/joyce/Codes/cpp/DataStructure/Lab03/lab09_ParkingSystem/CarInfo.hpp
+
+1418566160 /home/joyce/Codes/cpp/DataStructure/Lab03/lab09_ParkingSystem/SeqStack/SeqStack.tcc
+
+1418575216 /home/joyce/Codes/cpp/DataStructure/Lab03/lab09_ParkingSystem/SeqStack.hpp
+	"SequentialList.hpp"
+	"CarInfo.hpp"
+	"SeqStack.tcc"
+
+1418391871 /home/joyce/Codes/cpp/DataStructure/Lab03/lab09_ParkingSystem/SequentialList.hpp
+	<vector>
+	"SequentialList.tcc"
+
+1418393781 /home/joyce/Codes/cpp/DataStructure/Lab03/lab09_ParkingSystem/SequentialList.tcc
+	<limits>
+	<stdexcept>
+	<algorithm>
+
+1418566160 /home/joyce/Codes/cpp/DataStructure/Lab03/lab09_ParkingSystem/SeqStack.tcc
+

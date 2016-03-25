@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1417450397 source:/files/Nutstore/000/CPPWorkSpace/__temp/LinkedList/LinkedList/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"LinkedList.hpp"
+
+1417449816 /files/Nutstore/000/CPPWorkSpace/__temp/LinkedList/LinkedList/LinkedList.hpp
+	<vector>
+	"LinkedListNode.hpp"
+	"LinkedList.tcc"
+
+1417448077 /files/Nutstore/000/CPPWorkSpace/__temp/LinkedList/LinkedList/LinkedListNode.hpp
+
+1417450521 /files/Nutstore/000/CPPWorkSpace/__temp/LinkedList/LinkedList/LinkedList.tcc
+
+1417450622 source:/home/joyce/Downloads/LinkedList/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"LinkedList.hpp"
+
+1417449816 /home/joyce/Downloads/LinkedList/LinkedList.hpp
+	<vector>
+	"LinkedListNode.hpp"
+	"LinkedList.tcc"
+
+1417448077 /home/joyce/Downloads/LinkedList/LinkedListNode.hpp
+
+1417450521 /home/joyce/Downloads/LinkedList/LinkedList.tcc
+
+1417454489 source:/home/joyce/Codes/cpp/DataStructure/Lab02/Lab05_LinkedList--DoubleNoheadAcyclic/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"LinkedList.hpp"
+
+1417595419 /home/joyce/Codes/cpp/DataStructure/Lab02/Lab05_LinkedList--DoubleNoheadAcyclic/LinkedList.hpp
+	<vector>
+	"LinkedListNode.hpp"
+	"LinkedList.tcc"
+
+1417448077 /home/joyce/Codes/cpp/DataStructure/Lab02/Lab05_LinkedList--DoubleNoheadAcyclic/LinkedListNode.hpp
+
+1417604347 /home/joyce/Codes/cpp/DataStructure/Lab02/Lab05_LinkedList--DoubleNoheadAcyclic/LinkedList.tcc
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1417583588 source:/home/joyce/Codes/Examples/testHelloWorld_gtest/testMain.cpp
+	<gtest/gtest.h>
+	<iostream>
+	<cstdlib>
+	"../HelloWorld/test.hpp"
+
+1417581874 /home/joyce/Codes/Examples/HelloWorld/test.hpp
+	<cmath>
+

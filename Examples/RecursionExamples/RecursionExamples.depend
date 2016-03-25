@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1420731306 source:/files/Nutstore/000/CPPWorkSpace/__temp/RecursionExamples/main.cpp
+	<iostream>
+	<vector>
+	<gtest/gtest.h>
+	"util.hpp"
+
+1420722142 /files/Nutstore/000/CPPWorkSpace/__temp/RecursionExamples/util.hpp
+	<vector>
+	<stdexcept>
+	"util.tcc"
+
+1420722422 /files/Nutstore/000/CPPWorkSpace/__temp/RecursionExamples/util.tcc
+
+1420732866 source:/home/joyce/Codes/Examples/RecursionExamples/main.cpp
+	<iostream>
+	<vector>
+	<gtest/gtest.h>
+	"util.hpp"
+
+1420722142 /home/joyce/Codes/Examples/RecursionExamples/util.hpp
+	<vector>
+	<stdexcept>
+	"util.tcc"
+
+1420722422 /home/joyce/Codes/Examples/RecursionExamples/util.tcc
+

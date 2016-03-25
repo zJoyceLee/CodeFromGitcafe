@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1417955999 source:/home/joyce/Codes/cpp/DataStructure/Lab02/Lab05myself_LinkedList--DoubleNoheadAcyclic/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"LinkedList.hpp"
+
+1417937718 /home/joyce/Codes/cpp/DataStructure/Lab02/Lab05myself_LinkedList--DoubleNoheadAcyclic/LinkedList.hpp
+	<vector>
+	"LinkedListNode.hpp"
+	"LinkedList.tcc"
+
+1417937686 /home/joyce/Codes/cpp/DataStructure/Lab02/Lab05myself_LinkedList--DoubleNoheadAcyclic/LinkedListNode.hpp
+
+1417953128 /home/joyce/Codes/cpp/DataStructure/Lab02/Lab05myself_LinkedList--DoubleNoheadAcyclic/LinkedList.tcc
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1419787140 source:/home/joyce/Codes/cpp/DataStructure/Lab04/Triple/TestTriSparseMatrix.cpp
+	"TriSparseMatrix.h"
+
+1419860977 /home/joyce/Codes/cpp/DataStructure/Lab04/Triple/TriSparseMatrix.h
+	"Assistance.h"
+	"Triple.h"
+	<stdexcept>
+	<vector>
+
+1419779119 /home/joyce/Codes/cpp/DataStructure/Lab04/Triple/Assistance.h
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1205798098 /home/joyce/Codes/cpp/DataStructure/Lab04/Triple/Triple.h
+

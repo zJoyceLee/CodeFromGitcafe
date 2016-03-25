@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1418394200 source:/home/joyce/Codes/cpp/DataStructure/Lab03/test1_SeqStack/main.cpp
+	<gtest/gtest.h>
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	"SequentialList.hpp"
+	"SeqStack.hpp"
+	"CarInfo.hpp"
+
+1418391871 /home/joyce/Codes/cpp/DataStructure/Lab03/test1_SeqStack/SequentialList.hpp
+	<vector>
+	"SequentialList.tcc"
+
+1418393781 /home/joyce/Codes/cpp/DataStructure/Lab03/test1_SeqStack/SequentialList.tcc
+	<limits>
+	<stdexcept>
+	<algorithm>
+
+1418391765 /home/joyce/Codes/cpp/DataStructure/Lab03/test1_SeqStack/SeqStack.hpp
+	"SequentialList.hpp"
+	"CarInfo.hpp"
+	"SeqStack.tcc"
+
+1418386657 /home/joyce/Codes/cpp/DataStructure/Lab03/test1_SeqStack/CarInfo.hpp
+
+1418391995 /home/joyce/Codes/cpp/DataStructure/Lab03/test1_SeqStack/SeqStack.tcc
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1430668378 source:/home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab08_beEqualOrGreaterThanX/main.cpp
+	<iostream>
+	<vector>
+	<cassert>
+	"Assistance.hpp"
+	"BinTreeNode.hpp"
+	"BinaryTree.hpp"
+	"helper.hpp"
+	"gtest/gtest.h"
+
+1430541311 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab08_beEqualOrGreaterThanX/Assistance.hpp
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1420966575 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab08_beEqualOrGreaterThanX/BinTreeNode.hpp
+
+1430668702 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab08_beEqualOrGreaterThanX/BinaryTree.hpp
+	<vector>
+	"LinkQueue.hpp"
+	"BinTreeNode.hpp"
+	"BinaryTree.tcc"
+
+1420966289 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab08_beEqualOrGreaterThanX/LinkQueue.hpp
+	"Assistance.hpp"
+	"Node.hpp"
+	"LinkQueue.tcc"
+
+1421172142 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab08_beEqualOrGreaterThanX/Node.hpp
+
+1420967504 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab08_beEqualOrGreaterThanX/LinkQueue.tcc
+
+1430668664 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab08_beEqualOrGreaterThanX/BinaryTree.tcc
+
+1430667236 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab08_beEqualOrGreaterThanX/helper.hpp
+	<gtest/gtest.h>
+	<sstream>
+	<vector>
+	<string>
+	"helper.tcc"
+
+1430667235 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab08_beEqualOrGreaterThanX/helper.tcc
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1421600619 source:/home/joyce/Codes/cpp/DataStructure/Lab05/lab02_minheap/main.cpp
+	<iostream>
+	<vector>
+	"MinHeap.hpp"
+	"MaxHeap.hpp"
+
+1421599815 /home/joyce/Codes/cpp/DataStructure/Lab05/lab02_minheap/MinHeap.hpp
+	<vector>
+	"MinHeap.tcc"
+
+1421599806 /home/joyce/Codes/cpp/DataStructure/Lab05/lab02_minheap/MinHeap.tcc
+
+1421600626 /home/joyce/Codes/cpp/DataStructure/Lab05/lab02_minheap/MaxHeap.hpp
+	<vector>
+	"MaxHeap.tcc"
+
+1421600794 /home/joyce/Codes/cpp/DataStructure/Lab05/lab02_minheap/MaxHeap.tcc
+
+1421600626 source:/home/joyce/Codes/cpp/DataStructure/Lab05/lab02_minheap/MaxHeap.hpp
+	<vector>
+	"MaxHeap.tcc"
+

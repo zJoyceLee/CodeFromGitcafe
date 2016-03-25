@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1429673368 source:/home/joyce/Codes/cpp/DataStructure/Chap06/MSTbyTearCircleMethod/main.cpp
+	<iostream>
+	<limits>
+	<vector>
+	"Assistant.hpp"
+	"TearCircle.hpp"
+	"helper.hpp"
+	"AdjMatrixUndirNetwork.hpp"
+	<gtest/gtest.h>
+
+1429665085 /home/joyce/Codes/cpp/DataStructure/Chap06/MSTbyTearCircleMethod/Assistant.hpp
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1429675768 /home/joyce/Codes/cpp/DataStructure/Chap06/MSTbyTearCircleMethod/TearCircle.hpp
+	"Assistant.hpp"
+	"AdjMatrixUndirNetwork.hpp"
+
+1429675724 /home/joyce/Codes/cpp/DataStructure/Chap06/MSTbyTearCircleMethod/AdjMatrixUndirNetwork.hpp
+	<vector>
+	"Assistant.hpp"
+	"AdjMatrixUndirNetwork.tcc"
+
+1429675715 /home/joyce/Codes/cpp/DataStructure/Chap06/MSTbyTearCircleMethod/AdjMatrixUndirNetwork.tcc
+
+1429664919 /home/joyce/Codes/cpp/DataStructure/Chap06/MSTbyTearCircleMethod/helper.hpp
+	<gtest/gtest.h>
+	<sstream>
+	<vector>
+	<string>
+	"helper.tcc"
+
+1429664951 /home/joyce/Codes/cpp/DataStructure/Chap06/MSTbyTearCircleMethod/helper.tcc
+

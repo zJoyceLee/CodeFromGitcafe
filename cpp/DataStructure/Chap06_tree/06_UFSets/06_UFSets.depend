@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1427553505 source:/home/joyce/Codes/cpp/DataStructure/Chap06/06_UFSets/main.cpp
+	<vector>
+	<iostream>
+	"UFSetsNode.hpp"
+	"UFSets.hpp"
+	"helper.hpp"
+	<gtest/gtest.h>
+
+1427379778 /home/joyce/Codes/cpp/DataStructure/Chap06/06_UFSets/UFSetsNode.hpp
+
+1427554386 /home/joyce/Codes/cpp/DataStructure/Chap06/06_UFSets/UFSets.hpp
+	<vector>
+	"UFSetsNode.hpp"
+	"UFSets.tcc"
+
+1427554546 /home/joyce/Codes/cpp/DataStructure/Chap06/06_UFSets/UFSets.tcc
+
+1427338887 source:/files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap06/06_UFSets/main.cpp
+	<vector>
+	<iostream>
+	"UFSetsNode.hpp"
+	"UFSets.hpp"
+	"helper.hpp"
+	<gtest/gtest.h>
+
+1427339108 /files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap06/06_UFSets/UFSetsNode.hpp
+
+1427293720 /files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap06/06_UFSets/UFSets.hpp
+	<vector>
+	"UFSetsNode.hpp"
+	"UFSets.tcc"
+
+1427293720 /files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap06/06_UFSets/UFSets.tcc
+
+1427339019 /files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap06/06_UFSets/helper.hpp
+	<gtest/gtest.h>
+	<sstream>
+	<vector>
+	<string>
+	"helper.tcc"
+
+1427339012 /files/Nutstore/000/SHUCourse/JoyceLee/DataStructure/Chap06/06_UFSets/helper.tcc
+
+1427365468 /home/joyce/Codes/cpp/DataStructure/Chap06/06_UFSets/helper.hpp
+	<gtest/gtest.h>
+	<sstream>
+	<vector>
+	<string>
+	"helper.tcc"
+
+1427365468 /home/joyce/Codes/cpp/DataStructure/Chap06/06_UFSets/helper.tcc
+
+1427536702 source:/home/joyce/Codes/cpp/DataStructure/Chap06/06_UFSets/UFSets.cpp
+	"UFSets.hpp"
+
+1427555757 source:/home/joyce/Codes/cpp/DataStructure/Chap06_tree/06_UFSets/main.cpp
+	<vector>
+	<iostream>
+	"UFSetsNode.hpp"
+	"UFSets.hpp"
+	"helper.hpp"
+	<gtest/gtest.h>
+
+1427379778 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/06_UFSets/UFSetsNode.hpp
+
+1427554386 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/06_UFSets/UFSets.hpp
+	<vector>
+	"UFSetsNode.hpp"
+	"UFSets.tcc"
+
+1427554546 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/06_UFSets/UFSets.tcc
+
+1427365468 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/06_UFSets/helper.hpp
+	<gtest/gtest.h>
+	<sstream>
+	<vector>
+	<string>
+	"helper.tcc"
+
+1427365468 /home/joyce/Codes/cpp/DataStructure/Chap06_tree/06_UFSets/helper.tcc
+

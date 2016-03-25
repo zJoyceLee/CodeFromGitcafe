@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419863784 source:/home/joyce/Codes/cpp/DataStructure/Lab04/lab09_wordCounter/main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+

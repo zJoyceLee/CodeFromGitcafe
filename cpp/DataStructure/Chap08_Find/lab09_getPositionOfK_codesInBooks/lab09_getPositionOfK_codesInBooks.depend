@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1430872853 source:/home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_getPositionOfK_codesInBooks/main.cpp
+	<iostream>
+	<vector>
+	"BinaryAvlTree.hpp"
+
+1430874364 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_getPositionOfK_codesInBooks/BinaryAvlTree.hpp
+	"Assistance.hpp"
+	"LinkQueue.hpp"
+	"LinkStack.hpp"
+	"BinAvlTreeNode.hpp"
+	"BinaryAvlTree.tcc"
+
+1430872700 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_getPositionOfK_codesInBooks/Assistance.hpp
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1430874275 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_getPositionOfK_codesInBooks/LinkQueue.hpp
+	"Assistance.hpp"
+	"Node.hpp"
+
+1430874763 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_getPositionOfK_codesInBooks/Node.hpp
+
+1430874316 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_getPositionOfK_codesInBooks/LinkStack.hpp
+	"Assistance.hpp"
+	"Node.hpp"
+
+1430873167 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_getPositionOfK_codesInBooks/BinAvlTreeNode.hpp
+
+1430874417 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab09_getPositionOfK_codesInBooks/BinaryAvlTree.tcc
+

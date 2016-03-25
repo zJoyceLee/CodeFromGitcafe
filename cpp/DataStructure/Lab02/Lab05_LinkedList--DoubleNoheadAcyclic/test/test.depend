@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1417606443 source:/home/joyce/Codes/cpp/DataStructure/Lab02/Lab05_LinkedList--DoubleNoheadAcyclic/test/testMain.cpp
+	<gtest/gtest.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	"../LinkedList.hpp"
+	"helper.hpp"
+
+1417595419 /home/joyce/Codes/cpp/DataStructure/Lab02/Lab05_LinkedList--DoubleNoheadAcyclic/LinkedList.hpp
+	<vector>
+	"LinkedListNode.hpp"
+	"LinkedList.tcc"
+
+1417448077 /home/joyce/Codes/cpp/DataStructure/Lab02/Lab05_LinkedList--DoubleNoheadAcyclic/LinkedListNode.hpp
+
+1417604347 /home/joyce/Codes/cpp/DataStructure/Lab02/Lab05_LinkedList--DoubleNoheadAcyclic/LinkedList.tcc
+
+1417589210 source:/home/joyce/Codes/cpp/DataStructure/Lab02/Lab05_LinkedList--DoubleNoheadAcyclic/test/helper.cpp
+
+1417595543 /home/joyce/Codes/cpp/DataStructure/Lab02/Lab05_LinkedList--DoubleNoheadAcyclic/test/helper.hpp
+	<gtest/gtest.h>
+	<sstream>
+	<vector>
+	<string>
+	"helper.tcc"
+
+1417595526 /home/joyce/Codes/cpp/DataStructure/Lab02/Lab05_LinkedList--DoubleNoheadAcyclic/test/helper.tcc
+

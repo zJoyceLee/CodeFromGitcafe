@@ -1,0 +1,3 @@
+001 Joyce female 20 7
+002 Adam male 23 3
+003 Ann female 19 7

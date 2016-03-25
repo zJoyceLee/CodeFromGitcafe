@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1430543562 source:/home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab07_BinarySearchTree/main.cpp
+	<iostream>
+	<vector>
+	"BinaryTree.hpp"
+
+1430544068 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab07_BinarySearchTree/BinaryTree.hpp
+	<vector>
+	"LinkQueue.hpp"
+	"BinTreeNode.hpp"
+	"BinaryTree.tcc"
+
+1420966289 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab07_BinarySearchTree/LinkQueue.hpp
+	"Assistance.hpp"
+	"Node.hpp"
+	"LinkQueue.tcc"
+
+1430541311 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab07_BinarySearchTree/Assistance.hpp
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1421172142 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab07_BinarySearchTree/Node.hpp
+
+1420967504 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab07_BinarySearchTree/LinkQueue.tcc
+
+1420966575 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab07_BinarySearchTree/BinTreeNode.hpp
+
+1430544121 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab07_BinarySearchTree/BinaryTree.tcc
+

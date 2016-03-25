@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1431873425 source:/home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab10_countUntilFIndXWithoutRecursion/main.cpp
+	<vector>
+	<iostream>
+	"BinarySortTree.hpp"
+	"BinTreeNode.hpp"
+	"Node.hpp"
+	"LinkQueue.hpp"
+	"Assistance.hpp"
+	<gtest/gtest.h>
+
+1431874261 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab10_countUntilFIndXWithoutRecursion/BinTreeNode.hpp
+
+1203760222 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab10_countUntilFIndXWithoutRecursion/Node.hpp
+
+1431873959 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab10_countUntilFIndXWithoutRecursion/LinkQueue.hpp
+	"Assistance.hpp"
+	"Node.hpp"
+	"LinkQueue.tcc"
+
+1431872170 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab10_countUntilFIndXWithoutRecursion/Assistance.hpp
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1431873432 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab10_countUntilFIndXWithoutRecursion/BinarySortTree.hpp
+	"LinkQueue.hpp"
+	"BinTreeNode.hpp"
+	"BinarySortTree.tcc"
+
+1431873981 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab10_countUntilFIndXWithoutRecursion/LinkQueue.tcc
+
+1431873411 /home/joyce/Codes/cpp/DataStructure/Chap08_Find/lab10_countUntilFIndXWithoutRecursion/BinarySortTree.tcc
+

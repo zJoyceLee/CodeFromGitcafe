@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1430273778 source:/home/joyce/Codes/cpp/DataStructure/Chap07_Graph/MST_TearCircleMethod/TestAdjMatrixUndirGraph.cpp
+	"TCM.h"
+
+1430830496 /home/joyce/Codes/cpp/DataStructure/Chap07_Graph/MST_TearCircleMethod/TCM.h
+	"AdjMatrixUndirGraph.h"
+
+1430831744 /home/joyce/Codes/cpp/DataStructure/Chap07_Graph/MST_TearCircleMethod/AdjMatrixUndirGraph.h
+	<vector>
+	"Assistance.h"
+
+1430269234 /home/joyce/Codes/cpp/DataStructure/Chap07_Graph/MST_TearCircleMethod/Assistance.h
+	<cstring>
+	<iostream>
+	<limits>
+	<cmath>
+	<fstream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+	<cstdarg>
+	<cassert>
+
+1430831752 source:/home/joyce/Codes/cpp/DataStructure/Chap07_Graph/MST_TearCircleMethod/main.cpp
+	<vector>
+	"TCM.h"
+	"helper.hpp"
+	"gtest/gtest.h"
+
+1430275398 /home/joyce/Codes/cpp/DataStructure/Chap07_Graph/MST_TearCircleMethod/helper.hpp
+	<gtest/gtest.h>
+	<sstream>
+	<vector>
+	<string>
+	"helper.tcc"
+
+1430275397 /home/joyce/Codes/cpp/DataStructure/Chap07_Graph/MST_TearCircleMethod/helper.tcc
+

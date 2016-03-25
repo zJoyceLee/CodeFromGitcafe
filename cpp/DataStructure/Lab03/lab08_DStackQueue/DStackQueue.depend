@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1419180849 source:/files/Nutstore/000/CPPWorkSpace/__temp/temp/DStackQueue/main.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"DStackQueue.hpp"
+
+1419181794 /files/Nutstore/000/CPPWorkSpace/__temp/temp/DStackQueue/DStackQueue.hpp
+	<vector>
+	"SeqStack.hpp"
+	"DStackQueue.tcc"
+
+1419180771 /files/Nutstore/000/CPPWorkSpace/__temp/temp/DStackQueue/SeqStack.hpp
+	"SequentialList.hpp"
+	"SeqStack.tcc"
+
+1418391871 /files/Nutstore/000/CPPWorkSpace/__temp/temp/DStackQueue/SequentialList.hpp
+	<vector>
+	"SequentialList.tcc"
+
+1418393781 /files/Nutstore/000/CPPWorkSpace/__temp/temp/DStackQueue/SequentialList.tcc
+	<limits>
+	<stdexcept>
+	<algorithm>
+
+1419180260 /files/Nutstore/000/CPPWorkSpace/__temp/temp/DStackQueue/SeqStack.tcc
+
+1419181754 /files/Nutstore/000/CPPWorkSpace/__temp/temp/DStackQueue/DStackQueue.tcc
+	"DStackQueue.hpp"
+
+1419180809 source:/files/Nutstore/000/CPPWorkSpace/__temp/temp/DStackQueue/DStackQueue.tcc
+	"DStackQueue.hpp"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1416750115 source:/home/joyce/Codes/cpp/test5_StudentClass_141118/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	"student.hpp"
+
+1416728748 /home/joyce/Codes/cpp/test5_StudentClass_141118/student.hpp
+
+1416454154 source:/home/joyce/Codes/cpp/test5_StudentClass_141118/node.cpp
+
+1416747877 source:/home/joyce/Codes/cpp/test5_StudentClass_141118/student.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdio>
+	<cstring>
+	"student.hpp"
+

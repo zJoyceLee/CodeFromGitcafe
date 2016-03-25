@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1416908028 source:/home/joyce/Codes/cpp/test1_141125/SequentialList.cpp
+
+1416907278 source:/home/joyce/Codes/cpp/test1_141125/Student.cpp
+	<iostream>
+	"Student.hpp"
+
+1416908077 /home/joyce/Codes/cpp/test1_141125/Student.hpp
+
+1416994093 source:/home/joyce/Codes/cpp/test1_141125/main.cpp
+	<iostream>
+	<cstdlib>
+	"Student.hpp"
+	"SequentialList.hpp"
+
+1416992520 /home/joyce/Codes/cpp/test1_141125/SequentialList.hpp
+	<vector>
+	"SequentialList.tcc"
+
+1416994434 /home/joyce/Codes/cpp/test1_141125/SequentialList.tcc
+	<limits>
+	<stdexcept>
+

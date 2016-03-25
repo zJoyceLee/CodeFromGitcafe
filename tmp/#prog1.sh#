@@ -1,0 +1,11 @@
+#!/usr/bin/env/ sh
+
+#name display program
+echo "Arguments count is $#"
+echo "Program1 name is $0"
+if [$# = 0]
+then
+    echo "No Arguement!"=
+else
+    echo "Arguments:$*"
+fi
